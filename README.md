@@ -20,5 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Sistema_Supervisorio" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Testador_De_Circuitos_Integrados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Testador_de_Circuitos_Integrados" />
 </a>
