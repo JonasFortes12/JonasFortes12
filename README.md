@@ -16,5 +16,4 @@
 
 ### Estou trabalhando nisso agora:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Testador_De_Circuitos_Integrados)](https://github.com/JonasFortes12/Testador_De_Circuitos_Integrados)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Sistema_Supervisorio)](https://github.com/JonasFortes12/Testador_De_Circuitos_Integrados)
