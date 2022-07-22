@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JonasFortes12/JonasFortes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## Eae! Sou Jonas Fortes
+
+<!-- badge do linkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-fortes-2138731a3/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonascforte@alu.ufc.br)
+
+![Jonas Fortes´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfortes12&show_icons=true&theme=radical)
+
+### Tecnologias que estou usando atualmente:
+<div style ="display: inline_block"><br/>
+    <img align="center" alt="img" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt="img" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
