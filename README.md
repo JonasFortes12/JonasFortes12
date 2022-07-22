@@ -12,13 +12,15 @@
     <img align="center" alt="img" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfortes12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfortes12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Estou trabalhando nisso agora:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Sistema_Supervisorio" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Testador_de_Circuitos_Integrados" />
 </a>
