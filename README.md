@@ -16,11 +16,12 @@
 
 ### Estou trabalhando nisso agora:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JonasFortes12/Sistema_Supervisorio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Sistema_Supervisorio" />
 </a>
 <br/>
 <br/>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JonasFortes12/Testador_de_Circuitos_Integrados">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&repo=Testador_de_Circuitos_Integrados" />
 </a>
+
