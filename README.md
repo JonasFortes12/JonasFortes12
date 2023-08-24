@@ -63,7 +63,7 @@ I'm Jonas: passionate about solving problems with technology. Here, you'll find 
 
 
 
-### 📫 Entre em Contato
+### 📫 Entre em Contato Comigo
 <!-- badge do linkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-fortes-2138731a3/)
 [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonascforte@alu.ufc.br)
