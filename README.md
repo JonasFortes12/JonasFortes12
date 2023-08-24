@@ -16,9 +16,11 @@
 </div>
 
 <br>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
 
 ![Jonas Fortes´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasfortes12&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfortes12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
