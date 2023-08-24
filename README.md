@@ -23,7 +23,7 @@
 
 
 ## Hi, welcome to my profile! 👋
-Sou o Jonas: apaixonado em resolver problemas com tecnologia. Aqui você encontrará uma coleção de projetos e contribuições que refletem minha jornada e meu entusiasmo pela área.
+Sou o Jonas: apaixonado por resolver problemas com tecnologia. Aqui você encontrará uma coleção de projetos e contribuições que refletem minha jornada e meu entusiasmo pela área.
 
 I'm Jonas: passionate about solving problems with technology. Here, you'll find a collection of projects and contributions that reflect my journey and enthusiasm for the field.
 
