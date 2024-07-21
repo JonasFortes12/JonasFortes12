@@ -50,10 +50,6 @@ I'm Jonas: passionate about solving problems with technology. Here, you'll find 
     <a href="https://github.com/JonasFortes12/GETEC_PSI" style="width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&theme=radical&repo=GETEC_PSI" alt="GETEC_PSI" style="max-width: 100%;"/>
     </a>
-    <a href="https://github.com/JonasFortes12/Sistema_Supervisorio" style="width: 45%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&theme=radical&repo=Sistema_Supervisorio" alt="Sistema_Supervisorio" 
-        style="max-width: 100%;"/>
-    </a>
     <a href="https://github.com/JonasFortes12/Solar-System-Simulation" style="width: 45%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&theme=radical&repo=Solar-System-Simulation" alt="Solar-System-Simulation" 
         style="max-width: 100%;"/>
