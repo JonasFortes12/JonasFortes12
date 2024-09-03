@@ -36,7 +36,7 @@ I'm Jonas: passionate about solving problems with technology. Here, you'll find 
 ### 🌱 Currently Learning
 
 - [X] Big data processing.
-- [ ] MLOps - Continuous Integration and Delivery for Machine Learning Applications.
+- [X] MLOps - Continuous Integration and Delivery for Machine Learning Applications.
 - [ ] Implementation of semi-supervised models for anomaly detection in geospatial data with Python.
 
 ### 🚀 Featured projects
