@@ -55,6 +55,9 @@ I'm Jonas: passionate about solving problems with technology. Here, you'll find 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&theme=radical&repo=Security-Access-Control-System" alt="Security-Access- 
         Control-System" style="max-width: 100%;"/>
     </a>
+    <a href="https://github.com/JonasFortes12/smart-alarm-clock-with-FreeRTOS" style="width: 45%; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonasfortes12&theme=radical&repo=smart-alarm-clock-with-FreeRTOS" alt="smart-alarm-clock-with-FreeRTOS style="max-width: 100%;"/>
+    </a>
 </div>
 
 ### 📫 Contact me
